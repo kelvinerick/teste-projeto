@@ -10,6 +10,7 @@ import android.widget.TextView
 
 class MainActivity : AppCompatActivity() {
     var percentual:Double = 0.7
+    // PARA COMMIT
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
